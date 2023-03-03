@@ -13,7 +13,7 @@ Tenho 19 Anos, moro em Praia Grande, Litoral de São Paulo, eu adoro ler no meu 
 
 🌱 Atualmente estou aprendendo sobre Front-end e Lógica de programaçao
 
-😄 Pronomes: He/Him
+😄 Idioma: Inglês intermédiario
 
 ⚡ Curiosidade: Em minha cozinha eu tento dar uma de "Masterchef"
 
