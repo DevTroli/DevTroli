@@ -1,4 +1,4 @@
-<h1> 👾Hi, I'm Troli👾 </h1>
+<h1> 👾Olá, Eu sou o Troli👾 </h1>
 
 <h3>É um prazer ter você por aqui </h3>
 <p>
@@ -31,10 +31,7 @@ Tenho 19 Anos, moro em Praia Grande, Litoral de São Paulo, eu adoro ler no meu 
 <div>
 <a href="https://github.com/DevTroli">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTroli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-![Snake animation](https://github.com/DevTroli/DevTroli/blob/output/github-contribution-grid-snake.svg)
+</div
   
   
   <h3>Medias Sociais</h3>
