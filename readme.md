@@ -26,14 +26,7 @@ Tenho 19 Anos, moro em Praia Grande, Litoral de São Paulo, eu adoro ler no meu 
 
 <div/>
 
-</div>
 
-<div>
-<a href="https://github.com/DevTroli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTroli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div
-  
-  
   <h3>Medias Sociais</h3>
 
 <div>
