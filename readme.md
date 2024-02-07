@@ -1,6 +1,6 @@
 <table align="right">
- <tr><td><a href="https://github.com/DevTroli/DevTroli/blob/main/readme.md> 🇺🇸 English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"> 🇧🇷 Português</a></td></tr>
+ <tr><td><a href="https://github.com/DevTroli/DevTroli/blob/main/readme.md"> 🇺🇸 English</a></td></tr>
+ <tr><td><a href="https://github.com/DevTroli/DevTroli/blob/main/readme-pt.md"> 🇧🇷 Português</a></td></tr>
 </table>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1200&random=false&width=660&lines=Hey%2C+How++you+doin'+%3F;I'm+a+fullstack+programmer+and+can+call+me+Troli;and+...+It's+a+pleasure+to+have+you+here)](https://git.io/typing-svg) 
