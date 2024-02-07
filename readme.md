@@ -1,5 +1,5 @@
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"> 🇺🇸 English</a></td></tr>
+ <tr><td><a href="https://github.com/DevTroli/Carol42/blob/main/README.md"> 🇺🇸 English</a></td></tr>
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"> 🇧🇷 Português</a></td></tr>
 </table>
 
