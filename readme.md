@@ -26,7 +26,7 @@ Tenho 19 Anos, moro em Praia Grande, Litoral de São Paulo, eu adoro ler no meu 
 <div/>
 
 
-  <h3>Medias Sociais</h3>
+  <h3>Social Medias</h3>
 
 <div>
 <a href="https://www.instagram.com/pablo_troli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
