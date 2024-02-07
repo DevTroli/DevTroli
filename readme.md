@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1200&random=false&width=660&height=76&lines=Hey%2C+How++you+doin'+%3F;I'm+a+fullstack+programmer+and+can+call+me+Troli;and+...+It's+a+pleasure+to+have+you+here)](https://git.io/typing-svg)
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <strong>Este perfil é um exemplo de como aplico os meus conhecimentos de programação para resolver problemas do mundo real. Espero que algo nos meus projetos possa ser útil para outras pessoas e inspirar outros programadores.</strong>
