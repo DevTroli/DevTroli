@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=6000&pause=1200&random=false&width=435&lines=Hey%2C+How++you+doing%3F;I'm+a+fullstack+programmer+and+you+can+call+me+Troli;and+...+It's+a+pleasure+to+have+you+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1200&random=false&width=660&height=76&lines=Hey%2C+How++you+doin'+%3F;I'm+a+fullstack+programmer+and+can+call+me+Troli;and+...+It's+a+pleasure+to+have+you+here)](https://git.io/typing-svg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
